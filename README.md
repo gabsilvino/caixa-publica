@@ -1,2 +1,2 @@
-# caixa-publica
-repositorio publico.
+# Caixa-Pública
+Repositório público.
